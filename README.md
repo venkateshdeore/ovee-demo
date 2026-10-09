@@ -2,6 +2,8 @@
 
 A small static portfolio site: plain HTML, CSS and JS, no build step.
 
+Live at **https://venkateshdeore.github.io/ovee-demo/**. It's hosted on GitHub Pages and redeploys automatically on every push to `main`.
+
 ## Run locally
 
 ```sh
